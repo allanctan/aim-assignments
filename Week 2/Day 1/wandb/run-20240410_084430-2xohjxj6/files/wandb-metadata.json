@@ -1,0 +1,48 @@
+{
+    "os": "macOS-12.3-arm64-arm-64bit",
+    "python": "3.12.2",
+    "heartbeatAt": "2024-04-10T00:44:31.633590",
+    "startedAt": "2024-04-10T00:44:30.712742",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "./Pythonic RAG Assignment.ipynb",
+    "codePathLocal": "Pythonic RAG Assignment.ipynb",
+    "git": {
+        "remote": "git@github.com:AI-Maker-Space/AI-Engineering-Cohort-2.git",
+        "commit": "fd3add93d2f291d0d778dfc5e8adff14165a3631"
+    },
+    "email": "allanctan@gmail.com",
+    "root": "/Users/mlmnl/Documents/ai-makerspace/AI-Engineering-Cohort-2",
+    "host": "mlmnls-mbp.lan",
+    "username": "MLMNL-ATAN",
+    "executable": "/opt/miniconda3/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3228,
+        "min": 600,
+        "max": 3228
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3228,
+            "min": 600,
+            "max": 3228
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 451.8239974975586
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
